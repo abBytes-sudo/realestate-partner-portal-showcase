@@ -2,7 +2,7 @@
 
 I built this for **Rent A Roof**'s partner/agent team — a lean, focused portal to work a lead list end to end: upload contacts, call through them, qualify, book site visits, and keep the follow-ups honest. It was a fast turnaround as a one-man team, design through deploy, driven end to end through agentic AI workflows — deliberately light, the kind of tool a small team actually keeps open all day.
 
-The screenshots use demo data; staff accounts and credentials are placeholders.
+The screenshots are from a demo build — a placeholder brand, dummy data and placeholder staff accounts stand in for the real branding and credentials, which I keep out of the public repo.
 
 *The source is in a private repo; happy to share it with a serious reviewer on request.*
 
