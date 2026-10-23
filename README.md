@@ -45,6 +45,6 @@ Screenshots are from a demo build of the same app, seeded in Sep 2026 after the 
 Laravel 13 · Blade · custom CSS · vanilla JavaScript · Chart.js · MariaDB (MySQL-compatible) · PHP 8.3+ · PhpSpreadsheet (contact uploads) · DomPDF (monthly reports) · custom auth · role-based access
 
 ---
-Developed by **[@abBytes-sudo](https://github.com/abBytes-sudo)** for Rent A Roof · [LinkedIn](https://www.linkedin.com/in/abhishek-m-b934a925a)
+Developed by **[@abBytes-sudo](https://github.com/abBytes-sudo)** for Rent A Roof
 
 © 2026 Abhishek Anand Masih. Write-up and screenshots shared for portfolio review; not licensed for reuse.
